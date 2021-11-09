@@ -1,0 +1,5 @@
+int count = 0, c = 0;
+int state = 0;
+char lex [100];
+int i = 0, j = 0;
+// int b = 1;
